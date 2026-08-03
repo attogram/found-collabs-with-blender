@@ -1,4 +1,9 @@
-⁸# found-collabs-with-blender
+# found-collabs-with-blender
+
+You can cite all versions by using the DOI [10.5281/zenodo.21780485](https://doi.org/10.5281/zenodo.21780485). This DOI represents all versions, and will always resolve to the latest one. [Read more](https://zenodo.org/help/versioning).
+
+
+---
 
 PII-SCRUBBED SYNTHESIS DOCUMENT
 Repo: `found-collabs-with-blender`
